@@ -1,0 +1,3 @@
+Testing out A* pathfinding code, as outlined here: http://www.policyalmanac.org/games/aStarTutorial.htm
+Needs Python and Pyglet to run.
+Right-click to start moving, left-click and drag to draw a wall.
